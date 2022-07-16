@@ -36,7 +36,11 @@ dependencies:
   cupertino_icons: ^1.0.2
   flutter_bloc:
   dartz:
+  http:
   equatable:
+  get_it:
+  dio:
+  shared_preferences:
 
 dev_dependencies:
   flutter_test:
